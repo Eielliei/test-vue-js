@@ -1,0 +1,16 @@
+button {
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: #009688;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+button:hover {
+    border-color: white;
+    background-color: #004D40;
+}
+
+li::marker {
+    color: #1DE9B6;
+}
